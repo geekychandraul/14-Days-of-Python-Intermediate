@@ -1,0 +1,11 @@
+{
+    "school": "Midtown High",
+    "location": "Queens",
+    "is_open": true,
+    "students": [
+        "Peter",
+        "MJ",
+        "Ned"
+    ],
+    "principal": "Mr. Morita"
+}
