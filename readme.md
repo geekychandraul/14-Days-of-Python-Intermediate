@@ -64,7 +64,7 @@ This repository is organized to help you code along and check your work.
 
 to be added
 type hinting
-abstract class
+decorators on day5
 
 
 ---
