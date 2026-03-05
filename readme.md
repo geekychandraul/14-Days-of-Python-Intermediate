@@ -65,6 +65,24 @@ This repository is organized to help you code along and check your work.
 to be added
 type hinting
 decorators on day5
+sorting using sorted in session 13 with generators
+
+New flow:
+Modules & PIP| Installing libraries, Virtual Environments, Imports. |
+File Handling| Reading & Writing `.txt` files (Persistent Storage). |
+Working with CSV and JSON | Working with real data (`.csv` and `.json`). |
+Dates & Automation| Automating file tasks, Timestamps, `os`, shutil & Pathlib module. |
+Functional Python and Generators | Advanced memory management with `yield`. |
+List, dict, tuple, set Comprehensions| Writing "Pythonic" one-liners. |
+Debugging & Handling Errors| raise Exception, assert, Debugging tips. |
+
+decorators and type hinting
+OOP Part 1 | The Blueprint: Classes, Objects, `__init__`, `self`. |
+OOP Part 2 | Parent/Child classes, Super(), Overriding methods. |
+OOP Part 3 | Magic Methods (`__str__`, `__len__`) & Operator Overloading. |
+APIs & Requests | Fetching live data from the internet (Weather/Crypto). |
+Web Scraping | Extracting data from websites using HTML parsing. |
+multithreading and multiprocessing and oncurrent.futures
 
 
 ---
